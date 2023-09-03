@@ -56,6 +56,10 @@ Plugins/*/Binaries/*
 /content/StarterContent/*
 /content/ThirdPerson/*
 /content/Megascans/*
+/content/Vehicles/*
+/content/VehicleTemplate/*
+/content/LevelPrototyping/*
+/content/CustomAssets/*
 
 
 # Builds
