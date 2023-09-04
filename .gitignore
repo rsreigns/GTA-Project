@@ -60,6 +60,7 @@ Plugins/*/Binaries/*
 /content/VehicleTemplate/*
 /content/LevelPrototyping/*
 /content/CustomAssets/*
+/content/BigFiles/*
 
 
 # Builds
