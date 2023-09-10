@@ -3,6 +3,13 @@
 	"EngineAssociation": "{FCC8A8E9-4264-DFF0-04E4-03BBF987CF5C}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "GTAhimachal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
